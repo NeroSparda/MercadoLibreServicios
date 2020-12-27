@@ -60,3 +60,58 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Bienvenido a la documentación
+============
+<img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-52.gif"/>
+
+<img align="right"  width="300" height="300" src="https://static.miraheze.org/hololivewiki/thumb/7/77/Kiryu_Coco_-_Portrait_3D.png/260px-Kiryu_Coco_-_Portrait_3D.png"/>
+
+Tabla de Contenido
+=================
+* [Información](#about)
+* [Características](#features)
+* [Instalación](#installation)
+* [Screenshots](#screenshots)
+* [Licencia](#license)
+* [Autor](#author)
+
+About
+=====
+** Proyecto personal de una tienda virtual que ofrece la venta de servicios.**
+
+Features
+========
+* Personas pueden ofrecer y solicitar servicios
+* Las personas puede recomendar servicios
+* Estadisticas de las ventas 
+* Imagenes de los servicios
+* Chat privado y comentarios de entre los que ofrencen servicios y los adquisitores
+<img align="right"  width="300" height="300" src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-53.gif?w=371&h=391"/>
+
+Installation
+============
+1. Download the latest release: https://github.com/NeroSparda/MercadoLibreServicios.git
+2. run `composer install --no-dev --no-scripts`
+3. run `php artisan migrate`
+4. run `npm install`
+5. run `npm run prod`
+6. copy the .env.example file and fill in the necessary values:  
+```@php -r \"file_exists('.env') || copy('.env.example', '.env');\"```
+
+Screenshots
+===========
+![Login](https://i.imgur.com/6rdVJgM.jpg)
+<img align="right"  width="200" height="200" src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif?w=900"/>
+
+License
+=======
+
+Te otorgo mi licencia, usalo con sabiduría.
+
+
+
+Author
+======
+Twitter: [@ZeroHoushou](https://twitter.com/ZeroHoushou) 
